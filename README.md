@@ -1,6 +1,52 @@
-# 💫 About Me:
-🔭 I’m currently working on: DevOps (Jenkins, Schedulix, SonarQube, RabbitMQ, Containers)<br>👯 Improving: Calidad de pipelines y proceso de CI/CD<br>🤝 Optimizing: Rendimiento en pipelines de Jenkins<br>🌱 Learning: Kubernetes y estrategias avanzadas de CI/CD<br>💬 Ask me about: DevOps, Jenkins, SonarQube, Docker, Kubernetes<br>⚡ Fun fact: Rugby, Karaoke, Basket, IA, IoT
+# 💫 Sobre mí
 
+🔭 **Actualmente trabajando en:**  
+DevOps e Ingeniería de Software — Jenkins, Schedulix, SonarQube, RabbitMQ, entornos containerizados (Docker/Podman), automatización CI/CD y confiabilidad de infraestructura.
+
+👯 **Mejorando:**  
+Calidad de pipelines CI/CD, procesos de entrega continua, integración de prácticas DevSecOps, estrategias de testing automatizado y gobernanza de releases.
+
+🤝 **Optimizando:**  
+Rendimiento de pipelines en Jenkins, paralelización de builds, gestión de artefactos, control de dependencias y eficiencia de infraestructura.
+
+🌱 **Aprendiendo y profundizando en:**  
+Kubernetes (clusters productivos), arquitecturas CI/CD avanzadas, GitOps, patrones cloud-native, observabilidad y prácticas DevSecOps “secure by design”.
+
+---
+
+## 💬 Pregúntame sobre
+
+- DevOps  
+- Ingeniería de Software  
+- DevSecOps  
+- Jenkins  
+- GitHub Actions  
+- SonarQube  
+- Docker  
+- Kubernetes  
+- Diseño de CI/CD  
+- Seguridad en pipelines  
+- Observabilidad  
+- Automatización de infraestructura  
+- Arquitectura Cloud  
+
+---
+
+## 🛠 Enfoque de Ingeniería
+
+- Infrastructure as Code (IaC)  
+- Implementación de Secure SDLC  
+- Hardening de contenedores e imágenes  
+- Análisis de seguridad (SAST / DAST)  
+- Gestión de repositorios de artefactos  
+- Performance tuning y escalabilidad de pipelines  
+- Principios de confiabilidad (mentalidad SRE)  
+
+---
+
+⚡ **Dato personal:** Rugby, Karaoke, Básquetbol, experimentación con IA e IoT.
+
+⚡ Dato personal: Rugby, Karaoke, Básquetbol, experimentación con IA e IoT.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maurog-castros) 
